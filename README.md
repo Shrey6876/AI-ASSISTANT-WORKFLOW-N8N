@@ -1,4 +1,3 @@
-[Uploading README (1).md…]()
 # Jerry Assistant
 
 A hierarchical multi-agent AI system for intelligent email, calendar, and meeting management built on n8n and Google Gemini.
