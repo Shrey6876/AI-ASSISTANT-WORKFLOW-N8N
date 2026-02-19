@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:bc8cff,100:d2a8ff&height=180&section=header&text=Jerry%20Assistant&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multi-Agent%20AI%20%7C%20Email%20%7C%20Calendar%20%7C%20Meetings%20%7C%20n8n&descSize=16&descAlignY=55&descColor=c9d1d9" width="100%" />
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Shrey6876/AI-ASSISTANT-WORKFLOW-N8N?style=flat-square&color=blue)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square)
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+<img src="https://img.shields.io/badge/Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" alt="Calendar" />
+<img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+<img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/github/last-commit/Shrey6876/AI-ASSISTANT-WORKFLOW-N8N?style=flat-square&color=blue" alt="Last Commit" />
+<img src="https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square" alt="Version" />
 
 </div>
 
